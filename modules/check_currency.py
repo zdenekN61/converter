@@ -2,9 +2,7 @@
 
 import os
 import re
-from modules.currency import CURRENCY_BYTECODE
-from modules.currency import CURRENCY_CODE
-from modules.currency import CURRENCY_NAME
+from modules.currency import *
 
 __all__ = ["json_out"]
 
